@@ -1,0 +1,4 @@
+D:\Orleans Sample\OrleansLearningProject\Interfaces\obj\Debug\net9.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orleans Sample\OrleansLearningProject\Interfaces\obj\Debug\net9.0\Interfaces.AssemblyInfoInputs.cache
+D:\Orleans Sample\OrleansLearningProject\Interfaces\obj\Debug\net9.0\Interfaces.AssemblyInfo.cs
+D:\Orleans Sample\OrleansLearningProject\Interfaces\obj\Debug\net9.0\Interfaces.csproj.CoreCompileInputs.cache

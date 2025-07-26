@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Start",
+    "Projects": [
+      {
+        "Path": "SiloHost\\SiloHost.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ClientApp\\ClientApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ClientApp\\ClientApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

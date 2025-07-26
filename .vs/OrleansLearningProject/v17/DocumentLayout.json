@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Orleans Sample\\OrleansLearningProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5075A98E-316E-405D-B190-3F7C74DD436C}|Grains\\Grains.csproj|d:\\orleans sample\\orleanslearningproject\\grains\\remindergrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5075A98E-316E-405D-B190-3F7C74DD436C}|Grains\\Grains.csproj|solutionrelative:grains\\remindergrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF66896B-557E-4F00-8AE6-9721D1162836}|ClientApp\\ClientApp.csproj|d:\\orleans sample\\orleanslearningproject\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF66896B-557E-4F00-8AE6-9721D1162836}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5075A98E-316E-405D-B190-3F7C74DD436C}|Grains\\Grains.csproj|d:\\orleans sample\\orleanslearningproject\\grains\\grains.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5075A98E-316E-405D-B190-3F7C74DD436C}|Grains\\Grains.csproj|solutionrelative:grains\\grains.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F84D2A-74E1-4740-8C62-5FCE76821302}|Interfaces\\Interfaces.csproj|d:\\orleans sample\\orleanslearningproject\\interfaces\\iremindergrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F84D2A-74E1-4740-8C62-5FCE76821302}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\iremindergrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5075A98E-316E-405D-B190-3F7C74DD436C}|Grains\\Grains.csproj|d:\\orleans sample\\orleanslearningproject\\grains\\timergrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5075A98E-316E-405D-B190-3F7C74DD436C}|Grains\\Grains.csproj|solutionrelative:grains\\timergrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D06DFF3-7652-487F-B129-45564F9AC475}|SiloHost\\SiloHost.csproj|d:\\orleans sample\\orleanslearningproject\\silohost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D06DFF3-7652-487F-B129-45564F9AC475}|SiloHost\\SiloHost.csproj|solutionrelative:silohost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D06DFF3-7652-487F-B129-45564F9AC475}|SiloHost\\SiloHost.csproj|d:\\orleans sample\\orleanslearningproject\\silohost\\silohost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D06DFF3-7652-487F-B129-45564F9AC475}|SiloHost\\SiloHost.csproj|solutionrelative:silohost\\silohost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F84D2A-74E1-4740-8C62-5FCE76821302}|Interfaces\\Interfaces.csproj|d:\\orleans sample\\orleanslearningproject\\interfaces\\itimergrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F84D2A-74E1-4740-8C62-5FCE76821302}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\itimergrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5075A98E-316E-405D-B190-3F7C74DD436C}|Grains\\Grains.csproj|d:\\orleans sample\\orleanslearningproject\\grains\\persistedtodograin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5075A98E-316E-405D-B190-3F7C74DD436C}|Grains\\Grains.csproj|solutionrelative:grains\\persistedtodograin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F84D2A-74E1-4740-8C62-5FCE76821302}|Interfaces\\Interfaces.csproj|d:\\orleans sample\\orleanslearningproject\\interfaces\\interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7F84D2A-74E1-4740-8C62-5FCE76821302}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF66896B-557E-4F00-8AE6-9721D1162836}|ClientApp\\ClientApp.csproj|d:\\orleans sample\\orleanslearningproject\\clientapp\\clientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF66896B-557E-4F00-8AE6-9721D1162836}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\clientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F84D2A-74E1-4740-8C62-5FCE76821302}|Interfaces\\Interfaces.csproj|d:\\orleans sample\\orleanslearningproject\\interfaces\\ipersistedtodograin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F84D2A-74E1-4740-8C62-5FCE76821302}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\ipersistedtodograin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5075A98E-316E-405D-B190-3F7C74DD436C}|Grains\\Grains.csproj|d:\\orleans sample\\orleanslearningproject\\grains\\models\\todograin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5075A98E-316E-405D-B190-3F7C74DD436C}|Grains\\Grains.csproj|solutionrelative:grains\\models\\todograin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F84D2A-74E1-4740-8C62-5FCE76821302}|Interfaces\\Interfaces.csproj|d:\\orleans sample\\orleanslearningproject\\interfaces\\itodograin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F84D2A-74E1-4740-8C62-5FCE76821302}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\itodograin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grains",
+              "DocumentMoniker": "D:\\Orleans Sample\\OrleansLearningProject\\Grains\\Grains.csproj",
+              "RelativeDocumentMoniker": "Grains\\Grains.csproj",
+              "ToolTip": "D:\\Orleans Sample\\OrleansLearningProject\\Grains\\Grains.csproj",
+              "RelativeToolTip": "Grains\\Grains.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T18:03:50.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReminderGrain.cs",
+              "DocumentMoniker": "D:\\Orleans Sample\\OrleansLearningProject\\Grains\\ReminderGrain.cs",
+              "RelativeDocumentMoniker": "Grains\\ReminderGrain.cs",
+              "ToolTip": "D:\\Orleans Sample\\OrleansLearningProject\\Grains\\ReminderGrain.cs",
+              "RelativeToolTip": "Grains\\ReminderGrain.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:12:57.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReminderGrain.cs",
+              "DocumentMoniker": "D:\\Orleans Sample\\OrleansLearningProject\\Interfaces\\IReminderGrain.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IReminderGrain.cs",
+              "ToolTip": "D:\\Orleans Sample\\OrleansLearningProject\\Interfaces\\IReminderGrain.cs",
+              "RelativeToolTip": "Interfaces\\IReminderGrain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:11:42.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimerGrain.cs",
+              "DocumentMoniker": "D:\\Orleans Sample\\OrleansLearningProject\\Grains\\TimerGrain.cs",
+              "RelativeDocumentMoniker": "Grains\\TimerGrain.cs",
+              "ToolTip": "D:\\Orleans Sample\\OrleansLearningProject\\Grains\\TimerGrain.cs",
+              "RelativeToolTip": "Grains\\TimerGrain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T18:13:51.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SiloHost.csproj",
+              "DocumentMoniker": "D:\\Orleans Sample\\OrleansLearningProject\\SiloHost\\SiloHost.csproj",
+              "RelativeDocumentMoniker": "SiloHost\\SiloHost.csproj",
+              "ToolTip": "D:\\Orleans Sample\\OrleansLearningProject\\SiloHost\\SiloHost.csproj",
+              "RelativeToolTip": "SiloHost\\SiloHost.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T02:23:11.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientApp.csproj",
+              "DocumentMoniker": "D:\\Orleans Sample\\OrleansLearningProject\\ClientApp\\ClientApp.csproj",
+              "RelativeDocumentMoniker": "ClientApp\\ClientApp.csproj",
+              "ToolTip": "D:\\Orleans Sample\\OrleansLearningProject\\ClientApp\\ClientApp.csproj",
+              "RelativeToolTip": "ClientApp\\ClientApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T02:23:04.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPersistedToDoGrain.cs",
+              "DocumentMoniker": "D:\\Orleans Sample\\OrleansLearningProject\\Interfaces\\IPersistedToDoGrain.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPersistedToDoGrain.cs",
+              "ToolTip": "D:\\Orleans Sample\\OrleansLearningProject\\Interfaces\\IPersistedToDoGrain.cs",
+              "RelativeToolTip": "Interfaces\\IPersistedToDoGrain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:57:51.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Orleans Sample\\OrleansLearningProject\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
+              "ToolTip": "D:\\Orleans Sample\\OrleansLearningProject\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:42:06.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Interfaces.csproj",
+              "DocumentMoniker": "D:\\Orleans Sample\\OrleansLearningProject\\Interfaces\\Interfaces.csproj",
+              "RelativeDocumentMoniker": "Interfaces\\Interfaces.csproj",
+              "ToolTip": "D:\\Orleans Sample\\OrleansLearningProject\\Interfaces\\Interfaces.csproj",
+              "RelativeToolTip": "Interfaces\\Interfaces.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T02:25:14.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITimerGrain.cs",
+              "DocumentMoniker": "D:\\Orleans Sample\\OrleansLearningProject\\Interfaces\\ITimerGrain.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITimerGrain.cs",
+              "ToolTip": "D:\\Orleans Sample\\OrleansLearningProject\\Interfaces\\ITimerGrain.cs",
+              "RelativeToolTip": "Interfaces\\ITimerGrain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T18:11:48.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Orleans Sample\\OrleansLearningProject\\SiloHost\\Program.cs",
+              "RelativeDocumentMoniker": "SiloHost\\Program.cs",
+              "ToolTip": "D:\\Orleans Sample\\OrleansLearningProject\\SiloHost\\Program.cs",
+              "RelativeToolTip": "SiloHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:10:56.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersistedToDoGrain.cs",
+              "DocumentMoniker": "D:\\Orleans Sample\\OrleansLearningProject\\Grains\\PersistedToDoGrain.cs",
+              "RelativeDocumentMoniker": "Grains\\PersistedToDoGrain.cs",
+              "ToolTip": "D:\\Orleans Sample\\OrleansLearningProject\\Grains\\PersistedToDoGrain.cs",
+              "RelativeToolTip": "Grains\\PersistedToDoGrain.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:26:44.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IToDoGrain.cs",
+              "DocumentMoniker": "D:\\Orleans Sample\\OrleansLearningProject\\Interfaces\\IToDoGrain.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IToDoGrain.cs",
+              "ToolTip": "D:\\Orleans Sample\\OrleansLearningProject\\Interfaces\\IToDoGrain.cs",
+              "RelativeToolTip": "Interfaces\\IToDoGrain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:48:23.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ToDoGrain.cs",
+              "DocumentMoniker": "D:\\Orleans Sample\\OrleansLearningProject\\Grains\\Models\\ToDoGrain.cs",
+              "RelativeDocumentMoniker": "Grains\\Models\\ToDoGrain.cs",
+              "ToolTip": "D:\\Orleans Sample\\OrleansLearningProject\\Grains\\Models\\ToDoGrain.cs",
+              "RelativeToolTip": "Grains\\Models\\ToDoGrain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:21:51.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 565,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
